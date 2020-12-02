@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@percy/cypress": "^2.3.3",
+    "cypress": "^6.0.1"
+  }
+}

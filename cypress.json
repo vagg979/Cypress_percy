@@ -1,0 +1,6 @@
+{
+    "baseUrl": "http://192.168.3.187/ASMSv9/",   
+    "loggingOptions": {
+        "commands": false
+    }
+}
